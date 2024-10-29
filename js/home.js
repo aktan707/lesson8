@@ -9,7 +9,7 @@ const menu = [
         name: "lunch"
     },
     {
-        img: "br-fest.svg",
+        img: "br-festt.svg",
         name: "dinner"
     },
     {
